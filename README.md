@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/sachin_1245e" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_1245e?logo=twitter&style=for-the-badge" alt="sachin_1245e" /></a> </p>
 
-- 🔭 I’m currently working on [Calify](https://calify.in/)
+## 🔭 Currently Working On
+I'm actively working on [Calify](https://calify.in/), a dynamic project aimed at providing innovative solutions. Check it out to learn more about what we're building!
 
-- 🌱 I’m currently learning **React JS, Next JS, Nest JS, Node JS**
+## 👯 Collaboration Opportunities
+I’m open to collaborating on [Calify](https://calify.in/) and other exciting projects! Whether you're a developer, designer, or someone with a unique idea, let's build something amazing together.
 
-- 👯 I’m looking to collaborate on [Calify](https://calify.in/)
-
-- 🤝 I’m looking for help with [Calify](https://calify.in/)
+## 🤝 Seeking Help With
+I'm looking for help with specific challenges in [Calify](https://calify.in/). If you're experienced in the following, your insights would be incredibly valuable:
+- Backend integrations with Nest JS.
+- Improving front-end performance with React and Next JS.
+- Implementing advanced features in a scalable, user-friendly web app.
 
 - 📫 How to reach me **sachin1245e@gmail.com**
 
