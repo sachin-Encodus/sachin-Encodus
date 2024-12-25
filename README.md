@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-encodus&show_icons=true&locale=en&layout=compact" alt="sachin-encodus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-encodus&show_icons=true&locale=en" alt="sachin-encodus" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-encodus&" alt="sachin-encodus" /></p>
