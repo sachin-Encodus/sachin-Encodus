@@ -30,7 +30,7 @@ I'm looking for help with specific challenges in [Calify](https://calify.in/). I
  
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,graphql,firebase,git,bootstrap,docker,express,mongodb,nestjs,nodejs,postgresql,sass,materialui,redis,kotlin,realm,postman" alt="Technologies and Tools" /> </p>
+<p align="left">  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,graphql,firebase,git,bootstrap,docker,express,mongodb,nestjs,nodejs,postgresql,sass,materialui,redis,kotlin,postman" alt="Technologies and Tools" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-encodus&show_icons=true&locale=en&layout=compact" alt="sachin-encodus" /></p>
 
