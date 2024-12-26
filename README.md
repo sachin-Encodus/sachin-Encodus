@@ -7,17 +7,30 @@
 
 <p align="left"> <a href="https://twitter.com/sachin_1245e" target="blank"><img src="https://img.shields.io/twitter/follow/sachin_1245e?logo=twitter&style=for-the-badge" alt="sachin_1245e" /></a> </p>
 
-## 🔭 Currently Working On
-I'm actively working on [Calify](https://calify.in/), a dynamic project aimed at providing innovative solutions. Check it out to learn more about what we're building!
+## 🚀 Currently Working On  
+I'm currently developing [**Calify**](https://calify.in/), a cutting-edge platform designed to deliver innovative solutions.  
+Explore our project and join us in building something extraordinary!  
 
-## 👯 Collaboration Opportunities
-I’m open to collaborating on [Calify](https://calify.in/) and other exciting projects! Whether you're a developer, designer, or someone with a unique idea, let's build something amazing together.
+---
 
-## 🤝 Seeking Help With
-I'm looking for help with specific challenges in [Calify](https://calify.in/). If you're experienced in the following, your insights would be incredibly valuable:
-- Backend integrations with Nest JS.
-- Improving front-end performance with React and Next JS.
-- Implementing advanced features in a scalable, user-friendly web app.
+## 🤝 Open to Collaboration  
+Looking to team up on [**Calify**](https://calify.in/) or other exciting ventures! Whether you're a:  
+- 💻 Developer with a knack for solving complex problems.  
+- 🎨 Designer with an eye for sleek, modern interfaces.  
+- 🌟 Innovator with unique ideas to share.  
+
+Let's work together to create impactful solutions!  
+
+---
+
+## 🛠️ Seeking Expertise  
+To take [**Calify**](https://calify.in/) to the next level, I’m looking for help in these areas:  
+- 🔧 **Backend Development**: Expertise in **Nest JS** for seamless integrations.  
+- ⚡ **Frontend Optimization**: Improving performance with **React** and **Next JS**.  
+- 🌟 **Scalable Features**: Implementing advanced, user-friendly functionalities for a growing platform.  
+
+If you have experience or insights in these areas, I’d love to collaborate!
+
 
 - 📫 How to reach me **sachin1245e@gmail.com**
 
